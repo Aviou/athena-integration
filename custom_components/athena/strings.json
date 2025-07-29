@@ -1,0 +1,28 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "host": "Host",
+          "port": "Port",
+          "username": "Username",
+          "password": "Password",
+          "device_type": "Device Type",
+          "scan_interval": "Scan Interval (seconds)"
+        },
+        "description": "Configure your Athena device connection",
+        "title": "Athena Device Setup"
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "invalid_auth": "Invalid authentication",
+      "invalid_host": "Invalid host address",
+      "invalid_port": "Invalid port number",
+      "unknown": "Unexpected error occurred"
+    },
+    "abort": {
+      "already_configured": "Device is already configured"
+    }
+  }
+}

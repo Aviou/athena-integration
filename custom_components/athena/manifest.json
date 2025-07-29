@@ -1,0 +1,13 @@
+{
+  "domain": "athena",
+  "name": "Athena",
+  "codeowners": ["@athena-integration"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/your-username/athena-integration",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/your-username/athena-integration/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
