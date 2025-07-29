@@ -1,13 +1,13 @@
 {
   "domain": "athena",
   "name": "Athena",
-  "codeowners": ["@athena-integration"],
+  "codeowners": ["@Aviou"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/your-username/athena-integration",
+  "documentation": "https://github.com/Aviou/athena-integration",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/your-username/athena-integration/issues",
-  "requirements": [],
+  "issue_tracker": "https://github.com/Aviou/athena-integration/issues",
+  "requirements": ["aiohttp"],
   "version": "1.0.0"
 }
